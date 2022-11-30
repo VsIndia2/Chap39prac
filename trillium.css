@@ -1,25 +1,25 @@
-body { background-color: E2FFFF; 	
+body { background-color: #1f7777; 	
 color:#0f8299;
 font-family: Arial, Verdana, sans-serif;
 }
  h1 {  background-color: #237B7B;	
 color: #0b7373;
 line-height: 200%;
-font-family: Georgia, 'Times New Roman', Times, serif;
+font-family: Georgia, "Times New Roman", serif;
 text-indent: 1em;
 text-shadow: 3px 3px 5px #000000;
 }
 h2 { background-color: #237B7B;	
     color: #0b7373;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: Georgia, "Times New Roman", serif;
     text-align: center;
     }	
 nav { font-weight: bold;	
-font-size: 1.25em;
-word-spacing: 1em;
+      font-size: 1.25em;
+      word-spacing: 1em;
 }
 nav a {	text-decoration: none; }
-p { font-size: 9em;	
+p { font-size: .90em;	
 text-indent: 3em;
 }
 ul { font-weight: bold;  } 
@@ -29,6 +29,6 @@ font-size: .75em;
 font-style: italic;
 }
 .company { font-weight: bold;
-font-family: Georgia, 'Times New Roman', Times, serif;
+font-family: Georgia, "Times New Roman", serif;
 font-size: 1.25em;
 }
